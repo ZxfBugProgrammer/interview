@@ -1,5 +1,5 @@
 * [💡 关于](/)
-* [➕ C/C++](/CPP)
+* [➕ C/C++](/Cpp)
 * [⭐️ Effective](/Effective)
 * [📦 STL](/STL)
 * [〽️ 数据结构](/DataStructure)
@@ -12,3 +12,4 @@
 * [📏 设计模式](/DesignPattern)
 * [⚙️ 链接装载库](/LinkLoadingLibrary)
 * [📝 杂项](/Others)
+
